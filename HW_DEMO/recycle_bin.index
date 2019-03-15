@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2019-03-15T10:52:31.901-0500">
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2019-03-15T10:52:34.099-0500">
   <deletedFolders>process/Integration_Data_Store_Hub/Mappings</deletedFolders>
+  <deletedFolders>process/Integration_Data_Store_Hub</deletedFolders>
   <deletedItems id="_nHVFsEc5EemUh93QbbCcow" path="Integration_Data_Store_Hub/Mappings" type="PROCESS"/>
 </recyclebin:RecycleBin>
